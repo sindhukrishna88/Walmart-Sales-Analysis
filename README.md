@@ -48,11 +48,12 @@ The prediction analysis uses year and quarter information and compares actual an
 
 ## Project Files
 
-- `Walmart Global Superstore_Dataset (1).xlsx` – Dataset
-- `Walmart Sales Analysis_with Prediction_Interns Copy (4).ipynb` – Sales analysis and prediction
-- `Walmart Sales Analysis_without Prediction_with errors (3).ipynb` – Sales analysis without prediction
-- `Screenshot 2026-09-05 110043.png` – Project screenshot
+## Project Files
 
+- 📊 [Walmart Global Superstore Dataset](<./Walmart Global Superstore_Dataset (1).xlsx>)
+- 🐍 [Walmart Sales Analysis with Prediction](<./Walmart Sales Analysis_with Prediction_Interns Copy (4).ipynb>)
+- 🐍 [Walmart Sales Analysis without Prediction](<./Walmart Sales Analysis_without Prediction_with errors (3).ipynb>)
+- 📸 [Project Screenshot](<./Screenshot 2026-09-05 110043.png>)
 ## Key Analysis
 
 The project focuses on identifying:
